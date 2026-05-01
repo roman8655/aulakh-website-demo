@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 60 150"
+   version="1.1"
+   sodipodi:docname="aulakh_logo_1.svg"
+   width="60"
+   height="150"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1"
+     inkscape:cx="29.5"
+     inkscape:cy="74.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">.cls-1{fill:#cca8a2;}.cls-2{fill:#087993;}.cls-3{fill:#b8d544;}.cls-4{fill:#ced954;}.cls-5{fill:#ced955;}.cls-6{fill:#ceda55;}.cls-7{fill:#fdfefd;}.cls-8{fill:#fbfdf6;}.cls-9{font-size:10.81px;fill:#0b7993;font-family:Ebrima-Bold, Ebrima;font-weight:700;}</style>
+  </defs>
+  <title
+     id="title1">LOGO new</title>
+  <path
+     class="cls-1"
+     d="m 50.018283,76.02258 c -3.641685,4.508136 -7.261428,9.060255 -10.968924,13.546395 -1.031076,1.231491 -2.193783,2.331036 -3.531993,3.60651 L 29.59415,53.393931 c -0.263254,0 -1.535649,-10.775547 -1.776965,-10.753557 2.413161,20.143674 3.422304,51.084882 1.053016,71.184576 l -0.592321,0.2639 C 24.877514,107.84342 21.213894,101.70796 18.142596,95.308605 15.071298,88.909251 12.658135,82.311975 9.9378429,75.824661 c -0.175503,0 -2.1937839,-5.409765 -2.1937839,-5.365785 2.347348,7.828764 6.076782,21.287199 8.775136,28.98402 3.005485,8.158624 6.866545,16.031374 10.113346,24.189994 a 10.354662,10.37971 0 0 1 0.109689,5.38778 c -1.162706,6.48732 -2.500914,12.97464 -3.86106,19.43997 A 2.4789763,2.4849729 0 0 1 21.279707,150 C 14.23766,150 7.21755,150 0,150 V 0 H 60 V 149.91204 H 35.40768 c 0.131625,-2.77086 0.26325,-5.49773 0.372942,-8.22461 0.263256,-6.79518 0.702012,-13.61237 0.702012,-20.40756 0,-6.79519 -0.548448,-13.85427 -0.702012,-20.78141 a 6.5813526,6.597273 0 0 1 1.162704,-3.40859 c 4.124316,-6.377364 8.358321,-12.688755 12.526509,-19.022139 0.351006,-0.549771 0.658134,-1.187511 1.162704,-1.847235 0,-0.131946 1.469838,-3.518547 1.491774,-3.650493 0.02193,-0.131943 -2.01828,3.364608 -2.10603,3.452577 z m 0.614256,-0.945615 v 0 -0.131943 z m 0.482634,-0.681714 v -0.109956 0 z"
+     id="path1"
+     style="stroke-width:2.19643" />
+  <polygon
+     class="cls-7"
+     points="23.1,34.22 23.05,34.18 23.11,34.16 "
+     id="polygon9"
+     transform="matrix(2.1937843,0,0,2.199091,0.06581353,-0.08796364)" />
+  <path
+     class="cls-7"
+     d="m 50.018283,76.02258 0.241314,-0.241905 v 0.395835 z"
+     id="path10"
+     style="stroke-width:2.19643" />
+  <polygon
+     class="cls-7"
+     points="23.31,33.82 23.27,33.87 23.26,33.81 "
+     id="polygon10"
+     transform="matrix(2.1937843,0,0,2.199091,0.06581353,-0.08796364)" />
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>LOGO new</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

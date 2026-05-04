@@ -732,11 +732,14 @@ height: auto;
 .profile > h5 {
   font-size: 1rem;
   color: var(--slate-grey);
-  margin-bottom: 0;
+  margin-bottom: 5px;
 }
 
-.profile > span {
-  font-size: 0.8rem;
+.profile > h6 {
+  font-size: 0.9rem;
+  line-height: 1.4;
+  font-weight: 370;
+  text-transform: none;
 }
 
 .profile-photo {
@@ -918,7 +921,7 @@ ul.bulletpoint li:last-child {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  margin: 0 auto 20px auto;
+  margin: 0 auto 5px auto;
   padding: 0;
   width: 180px;
   height: 180px;
@@ -945,77 +948,20 @@ ul.bulletpoint li:last-child {
   z-index: 1;
 }
 
-.appt-btn span {
-  color: #240046;
-  font-size: 19px;
-  font-weight: 700;
-}
-
 .appt-btn:hover {
-  background: #eee;
-}
-
-/* ALTERNATE BUTTON 2 */
-
-.appt-btn2 {
-  margin: 1.8rem 0 2.5rem 0;
-  display: inline-block;
-  width: 260px;
-  height: 50px;
-  border-radius: 5px;
-  border: 2px solid #240046;
-  background: #240046;
-  position: relative;
-  overflow: hidden;
-  transition: all 0.3s;
-  z-index: 1;
-}
-
-.appt-btn2 span {
-  color: #dedede;
-  font-size: 19px;
-  font-weight: 700;
-}
-
-.appt-btn2:hover {
-  background: #37204d;
-  border: #37204d;
-}
-
-/* END ALTERNATE BUTTON 2 */
-
-/* ALTERNATE BUTTON 3 */
-
-.appt-btn3 {
-  margin: 1.8rem 0 2.5rem 0;
-  display: inline-block;
-  width: 260px;
-  height: 50px;
-  border-radius: 5px;
-  border: 2px solid #240046;
-  background: #fff;
-  position: relative;
-  overflow: hidden;
-  transition: all 0.3s;
-  z-index: 1;
-}
-
-.appt-btn3:hover {
   background: #240046;
 }
 
-.appt-btn3:hover span {
+.appt-btn:hover span {
   color: #dedede;
 }
 
-.appt-btn3 span {
+.appt-btn span {
   color: #240046;
   font-size: 19px;
   font-weight: 700;
   transition: all 0.3s ease-in;
 }
-
-/* END ALTERNATE BUTTON 3 */
 
 @media screen and (max-width: 991px) {
   .profile-button {

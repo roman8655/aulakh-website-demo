@@ -8,7 +8,7 @@ const dropdownToggle = document.querySelector('.drop-toggle');
 function setScreenClass() {
     const windowWidth = window.innerWidth;
 
-    if (windowWidth < 992) {
+    if (windowWidth < 1200) {
         navbarDropdown.classList.remove('dropdown');
         navbarDropdown.classList.add('mobile-dropdown');
         bodyOverflow.classList.add('overflow');

@@ -5,7 +5,7 @@ $(window).on("load",function(){
 
 //Get Current Year
 document.addEventListener('DOMContentLoaded', function() {
-    const yearSpan = document.getElementById('currentYear');
+    const yearSpan = document.getElementById('yr');
     if (yearSpan) {
         yearSpan.textContent = new Date().getFullYear();
     }
